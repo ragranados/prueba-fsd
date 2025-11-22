@@ -5,3 +5,5 @@
 
 ## Lenguaje
 - **JavaScript**  
+
+La ruta se agregó en `users.js`.
