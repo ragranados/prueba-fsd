@@ -5,3 +5,5 @@
 
 ## Lenguaje
 - **JavaScript**  
+
+Las rutas se agregaron el `tasks.js`
